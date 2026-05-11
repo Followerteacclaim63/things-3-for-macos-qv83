@@ -1,4 +1,4 @@
-#  
+#  advanced Things 3 for macOS Workflow | note encryption + tags is the best Things 3 for macOS workflow, featuring note encryption and tags. Safe, efficient, and optimized for macOS
 
 
 
